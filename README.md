@@ -16,5 +16,5 @@ ionic serve
 To serve in moible or emulator:
 
 ```
-	ionic cordova run android -lc --address localhost
+ionic cordova run android -lc --address localhost
 ```
