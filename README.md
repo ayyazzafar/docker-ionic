@@ -13,3 +13,8 @@ now you can access ionic from your bash
 ionic serve
 ```
 
+To serve in moible or emulator:
+
+```
+	ionic cordova run android -lc --address localhost
+```
